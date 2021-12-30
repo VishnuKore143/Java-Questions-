@@ -1,5 +1,6 @@
-package SCA;
-
+/* Write a program to creat an integer array of n element where n should be taken from the user.
+Then ask the user to input value in that array and finally display all the numbers entered along with the sum and avarage.
+*/
 import java.util.Scanner;
 
 public class Test {
